@@ -1,2 +1,2 @@
-# EE3370_Project_1_Alsan_Semih
+# EE3370_Project_1_Kim_R
 EE 3370 Project 1
