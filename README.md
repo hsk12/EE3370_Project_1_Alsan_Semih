@@ -2,6 +2,8 @@
 EE 3370 Project 1
 Rosy's Signal & System
 
+In this class, we will learn next topics:
+
 Signal Energy and Power.
 Signal Operation.
 Classfication of the signal.
